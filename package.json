@@ -1,0 +1,33 @@
+{
+  "name": "nodebb-widget-ffxivarrstatus",
+  "version": "0.1.0",
+  "description": "FFXIV Server Status Widget",
+  "main": "library.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/restingcoder/nodebb-widget-ffxivarrstatus.git"
+  },
+  "keywords": [
+    "ffxiv",
+    "nodebb",
+    "widget"
+  ],
+  "author": {
+    "name": "RestingCoder"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/restingcoder/nodebb-widget-ffxivarrstatus/issues"
+  },
+  "homepage": "https://github.com/restingcoder/nodebb-widget-ffxivarrstatus",
+  "_npmUser": {
+    "name": "restingcoder",
+    "email": "josh.schmille@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "restingcoder",
+      "email": "josh.schmille@gmail.com"
+    }
+  ]
+}
