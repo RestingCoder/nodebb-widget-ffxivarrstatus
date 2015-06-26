@@ -5,3 +5,7 @@ Installation:
     npm install nodebb-widget-ffxivarrstatus
 
 After enabling the plugin within Extend > Plugins, go to Extend > Widgets, add it to a page, then select your server within the widget settings.
+
+Screenshot:
+
+![](http://i.imgur.com/dDcOmS1.png)
